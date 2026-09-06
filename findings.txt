@@ -1,0 +1,3 @@
+The top 20 companies by revenue and employee count have been visualized in bar charts.
+The data was cleaned to remove commas and convert the revenue and employee counts to numeric types.
+No missing values were found in the dataset.
